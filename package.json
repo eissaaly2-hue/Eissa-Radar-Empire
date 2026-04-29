@@ -1,18 +1,11 @@
 {
-  "name": "sales-radar-empire",
-  "version": "1.0.0",
-  "description": "Comprehensive Sales and Inventory Management System with 3D Radar Interface",
+  "name": "eissa-radar-empire",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "three": "^0.150.0",
-    "@react-three/fiber": "^8.12.0",
-    "@react-three/drei": "^9.57.0",
-    "framer-motion": "^10.0.0",
-    "ajv": "^8.12.0",
-    "ajv-keywords": "^5.1.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,6 +28,10 @@
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}      "last 1 firefox version",
       "last 1 safari version"
     ]
   }
